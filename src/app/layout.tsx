@@ -40,5 +40,5 @@ export default function RootLayout({
         </ConvexClientProvider>
       </body>
     </html>
-  );
+  )
 }
